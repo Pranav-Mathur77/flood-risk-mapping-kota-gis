@@ -63,21 +63,27 @@ Kota District is located in southeastern Rajasthan and is characterized by a com
 
 ## Project Outputs
 
-### 1. Elevation Analysis Map
+### Elevation Analysis Map
 
-The elevation map illustrates terrain variation across Kota District, ranging from low-lying regions to elevated plateau areas. Elevation plays a significant role in controlling runoff movement and water accumulation patterns.
+![Elevation Analysis](Maps/Elevation%20Map%20kota%20District.png)
 
-### 2. Slope Analysis Map
+---
 
-The slope map classifies terrain into different slope categories. Low-slope regions exhibit greater flood susceptibility due to slower runoff movement and increased water retention.
+### Slope Analysis Map
 
-### 3. Drainage Network Analysis Map
+![Slope Analysis](Maps/Slope%20Map%20kota%20District.png)
 
-The drainage network was extracted from DEM-derived hydrological analysis. The resulting stream channels reveal the natural flow pathways through which runoff is transported across the district.
+---
 
-### 4. Flood Risk Analysis Map
+### Drainage Network Analysis Map
 
-Flood-prone zones were identified by integrating flow accumulation and slope characteristics. Areas located near drainage channels and low-gradient terrain were classified as potentially vulnerable to flooding.
+![Drainage Network Analysis](Maps/Drainage%20Network%20Analysis%20Map%20kota.png)
+
+---
+
+### Flood Risk Analysis Map
+
+![Flood Risk Analysis](Maps/Flood%20Risk%20Analysis%20of%20Kota%20District.png)
 
 ---
 
